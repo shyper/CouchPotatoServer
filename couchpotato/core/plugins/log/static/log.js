@@ -238,7 +238,7 @@ Running on: ...\n\
 					new Element('a.button', {
 						'target': '_blank',
 						'text': 'the contributing guide',
-						'href': 'https://github.com/RuudBurger/CouchPotatoServer/blob/develop/contributing.md'
+						'href': 'https://github.com/shyper/CouchPotatoServer/blob/develop/contributing.md'
 					}),
 					new Element('span', {
 						'html': ' before posting, then copy the text below and <strong>FILL IN</strong> the dots.'
@@ -255,7 +255,7 @@ Running on: ...\n\
 				new Element('a.button', {
 					'target': '_blank',
 					'text': 'Create a new issue on GitHub with the text above',
-					'href': 'https://github.com/RuudBurger/CouchPotatoServer/issues/new',
+					'href': 'https://github.com/RuudBurger/shyper/issues/new',
 					'events': {
 						'click': function(e){
 							(e).stop();
