@@ -18,7 +18,7 @@ class CouchPotatoApi(MovieProvider):
     urls = {
         'validate': 'https://api.couchpota.to/validate/%s/',
         'search': 'https://api.couchpota.to/search/%s/',
-        'info': 'https://api.couchpota.to/info/%s/',
+        #'info': 'https://api.couchpota.to/info/%s/',
         'is_movie': 'https://api.couchpota.to/ismovie/%s/',
         'eta': 'https://api.couchpota.to/eta/%s/',
         'suggest': 'https://api.couchpota.to/suggest/',
